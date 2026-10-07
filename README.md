@@ -31,8 +31,8 @@ Tests: Viết kiểm thử tự động
 
 ### 4. PUT Request
 
-![PUT Request](04-put.png)
+![PUT Request](04-delete.png)
 
 ### 5. DELETE Request
 
-![DELETE Request](05-delete.png)
+![DELETE Request](05-test.png)
