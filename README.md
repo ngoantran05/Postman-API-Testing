@@ -18,16 +18,21 @@ Tests: Viết kiểm thử tự động
 ## Hình ảnh thực hành
 
 ### 1. GET Request
-![GET Request](images/01-get.png)
+
+![GET Request](01-get.png)
 
 ### 2. GET Request với Parameters
-![GET Parameters](images/02-get-params.png)
+
+![GET Parameters](02-get-params.png)
 
 ### 3. POST Request
-![POST Request](images/03-post.png)
+
+![POST Request](03-post.png)
 
 ### 4. PUT Request
-![PUT Request](images/04-put.png)
+
+![PUT Request](04-put.png)
 
 ### 5. DELETE Request
-![DELETE Request](images/05-delete.png)
+
+![DELETE Request](05-delete.png)
